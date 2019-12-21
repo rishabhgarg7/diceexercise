@@ -1,2 +1,0 @@
-# diceexercise
-Created with CodeSandbox
